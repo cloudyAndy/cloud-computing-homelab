@@ -11,9 +11,8 @@ To gain real-world experience with major cloud platforms, identity management, c
 |-----------------------|-----------------------|------------|--------------------------|
 | **Microsoft 365**     | E3 Trial / E5 Dev     | Active     | User admin, Exchange, Teams, Intune, Entra ID |
 | **Azure**             | Free Tier + Student   | Active     | VMs, Networking, Storage, RBAC |
-| AWS                   | Free Tier             | [Status]   | EC2, IAM, S3, VPC |
+| AWS                   | Free Tier             | [pending]   | EC2, IAM, S3, VPC |
 | Others                | ...                   | ...        | ... |
 
 ---
 
-### 📁 Repository Structure
