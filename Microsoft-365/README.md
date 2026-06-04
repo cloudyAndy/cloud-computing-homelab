@@ -1,29 +1,31 @@
 # Microsoft 365 Homelab
 
-**Tenant Type**: Microsoft 365 E3 Trial  
+**Tenant Name**: simpletech001.onmicrosoft.com  
+**License**: Microsoft 365 E3 Trial  
 **Created**: June 2026  
-**Expires**: [July 2, 2026]
+**Users Created**: 6 (1 admin + 5 test users)
 
-This homelab is built to practice real IT Support / Helpdesk tasks using Microsoft 365.
-
-### Projects
-
-- [ ] Tenant Setup & Custom Domain
-- [ ] User Account Creation & Management
-- [ ] Exchange Online Administration
-- [ ] Microsoft Teams Configuration
-- [ ] Security & MFA Setup
-- [ ] PowerShell Automation Scripts
-
-### Skills Practiced
-- Entra ID administration
-- User lifecycle management
-- Email troubleshooting
-- Collaboration tools support
-- Basic cloud security
+This homelab is used to practice real-world IT Support / Helpdesk tasks.
 
 ### Screenshots
-*(Add your screenshots here)*
+
+![M365 Admin Center](./Screenshots/01-m365-admin-center-home.png)
+![Active Users - Initial](./Screenshots/02-active-users-initial.png)
+![Active Users - After Creating Test Users](./Screenshots/03-active-users-after-creating-5.png)
+
+### Next Steps In Progress
+- [x] Tenant Exploration & Documentation
+- [x] Create Test Users
+- [ ] Enable Security Defaults + MFA
+- [ ] Create Security Groups
+- [ ] Exchange Online (Shared Mailboxes, etc.)
+- [ ] Microsoft Teams Setup
+- [ ] PowerShell Scripts
+
+### Skills Practiced So Far
+- User creation and license assignment
+- Microsoft 365 Admin Center navigation
+- Documentation and portfolio building
 
 ---
-Last Updated: June 03, 2026
+**Last Updated**: June 04, 2026
