@@ -3,29 +3,50 @@
 **Tenant Name**: simpletech001.onmicrosoft.com  
 **License**: Microsoft 365 E3 Trial  
 **Created**: June 2026  
-**Users Created**: 6 (1 admin + 5 test users)
+**Users**: 6 (1 Admin + 5 Test Users)
 
-This homelab is used to practice real-world IT Support / Helpdesk tasks.
+This homelab is built to practice real-world **IT Support / Helpdesk** tasks in Microsoft 365.
 
 ### Screenshots
-
-![M365 Admin Center](./Screenshots/01-m365-admin-center-home.png)
-![Active Users - Initial](./Screenshots/02-active-users-initial.png)
-![Active Users - After Creating Test Users](./Screenshots/03-active-users-after-creating-5.png)
-
-### Next Steps In Progress
-- [x] Tenant Exploration & Documentation
-- [x] Create Test Users
-- [ ] Enable Security Defaults + MFA
-- [ ] Create Security Groups
-- [ ] Exchange Online (Shared Mailboxes, etc.)
-- [ ] Microsoft Teams Setup
-- [ ] PowerShell Scripts
-
-### Skills Practiced So Far
-- User creation and license assignment
-- Microsoft 365 Admin Center navigation
-- Documentation and portfolio building
+![M365 Admin Center](./Screenshots/01-m365-admin-center-home.png)  
+![Active Users](./Screenshots/03-active-users-after-creating-5.png)
 
 ---
+
+### Completed Projects
+
+**✅ Tenant Exploration & Documentation**  
+**✅ User Account Creation & License Assignment**  
+**✅ Security Defaults (Already Enabled)**  
+**✅ User & Group Management**
+
+### User & Group Management
+
+**Created:**
+- 5 Test Users (John Smith, Nkeiruka Benson, Segun Okunola, Olayinka Kolapo, Sarah Adarabioyo)
+- 3 Groups:
+  - IT-Helpdesk (Security Group)
+  - Finance-Team (Security Group)
+  - Marketing-Team (Microsoft 365 Group)
+
+**Screenshots**
+![All Groups](./Screenshots/05-groups-list.png)  
+![IT Helpdesk Members](./Screenshots/06-it-helpdesk-members.png)
+
+**Skills Practiced:**
+- Creating and managing users
+- Assigning Microsoft 365 E3 licenses
+- Creating Security Groups and Microsoft 365 Groups
+- Adding members to groups
+
+---
+
+### Next Projects To Complete
+- [ ] Exchange Online Administration (Shared mailboxes, mail flow, etc.)
+- [ ] Microsoft Teams Setup & Configuration
+- [ ] PowerShell Automation Scripts
+- [ ] Basic Security & Compliance
+
+---
+
 **Last Updated**: June 04, 2026
