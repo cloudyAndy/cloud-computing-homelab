@@ -85,10 +85,10 @@ This homelab is built to practice real-world **IT Support / Helpdesk** tasks in 
 
 **Note:** Overcame "We can't create deployment team" error (common in trial tenants).
 ### Next Projects To Complete
-- [ ] Microsoft Teams Setup & Configuration
+
 - [ ] PowerShell Automation Scripts
 - [ ] Basic Security & Compliance
 
 ---
 
-**Last Updated**: June 04, 2026
+**Last Updated**: June 08, 2026
