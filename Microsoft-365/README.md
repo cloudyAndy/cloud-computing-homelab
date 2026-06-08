@@ -39,6 +39,27 @@ This homelab is built to practice real-world **IT Support / Helpdesk** tasks in 
 
 ---
 
+### Exchange Online Administration
+
+**Completed:**
+- Created Shared Mailbox (`IT Support` / `ITSupport@simpletech001.onmicrosoft.com`)
+- Configured Mailbox Delegation (Full Access + Send As)
+- Tested mailbox access via "Open another mailbox"
+- Experienced and troubleshot permission replication delay (common real-world issue)
+
+**Screenshots**
+![Exchange Admin Center](./Screenshots/08-shared-mailbox-created.png)  
+![Shared Mailbox Delegation](./Screenshots/09-shared-mailbox-delegation.png)
+
+**Skills Practiced:**
+- Creating and managing Shared Mailboxes
+- Mailbox Delegation (Full Access & Send As)
+- Troubleshooting permission propagation delays
+  **Note:** Send As permission was granted but took longer than expected to replicate. Documented real-world troubleshooting process.
+
+ 
+
+**Note:** Send As permission was granted but took longer than expected to replicate. Documented real-world troubleshooting process.
 ### Next Projects To Complete
 - [ ] Exchange Online Administration (Shared mailboxes, mail flow, etc.)
 - [ ] Microsoft Teams Setup & Configuration
