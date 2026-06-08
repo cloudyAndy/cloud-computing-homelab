@@ -72,8 +72,8 @@ This homelab is built to practice real-world **IT Support / Helpdesk** tasks in 
 ![Teams Admin Center](./Screenshots/10-teams-admin-center.png)  
 ![Marketing Team](./Screenshots/11-marketing-team.png)  
 ![Team Members](./Screenshots/12-team-members.png)  
-![Team Meeting](./Screenshots/13-teams-posting-filesharing.png)
-![Teams Filesharing/Posting](./Screenshots/14-teams-posting-filesharing.png)
+![Team Meeting](./Screenshots/13-team-meeting-scheduling.png)
+![Teams Filesharing/Posting](./Screenshots/14-team-posting-filesharing.png)
 
 
 **Skills Practiced:**
