@@ -58,10 +58,33 @@ This homelab is built to practice real-world **IT Support / Helpdesk** tasks in 
   **Note:** Send As permission was granted but took longer than expected to replicate. Documented real-world troubleshooting process.
 
  
+---
 
-**Note:** Send As permission was granted but took longer than expected to replicate. Documented real-world troubleshooting process.
+### Microsoft Teams Administration & Support
+
+**Completed:**
+- Created Marketing-Team (Private Team)
+- Added test users as members
+- Created Standard and Private channels
+- Tested messaging, file sharing, and basic meeting functionality
+
+**Screenshots**
+![Teams Admin Center](./Screenshots/10-teams-admin-center.png)  
+![Marketing Team](./Screenshots/11-marketing-team.png)  
+![Team Members](./Screenshots/12-team-members.png)  
+![Team Meeting](./Screenshots/13-teams-posting-filesharing.png)
+![Teams Filesharing/Posting](./Screenshots/14-teams-posting-filesharing.png)
+
+
+**Skills Practiced:**
+- Creating and managing Teams
+- Adding users to Teams
+- Channel management (Standard vs Private channels)
+- Collaboration tool support
+- Common end-user Teams scenarios
+
+**Note:** Overcame "We can't create deployment team" error (common in trial tenants).
 ### Next Projects To Complete
-- [ ] Exchange Online Administration (Shared mailboxes, mail flow, etc.)
 - [ ] Microsoft Teams Setup & Configuration
 - [ ] PowerShell Automation Scripts
 - [ ] Basic Security & Compliance
