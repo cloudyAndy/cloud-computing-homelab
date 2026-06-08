@@ -13,12 +13,11 @@ This homelab is built to practice real-world **IT Support / Helpdesk** tasks in 
 
 ---
 
-### Completed Projects
-
-**✅ Tenant Exploration & Documentation**  
-**✅ User Account Creation & License Assignment**  
-**✅ Security Defaults (Already Enabled)**  
-**✅ User & Group Management**
+**Skills Practiced:**
+- Tenant Exploration & Documentation  
+- User Account Creation & License Assignment
+- Assigning Microsoft 365 E3 licenses  
+- User & Group Management
 
 ### User & Group Management
 
@@ -35,7 +34,6 @@ This homelab is built to practice real-world **IT Support / Helpdesk** tasks in 
 
 **Skills Practiced:**
 - Creating and managing users
-- Assigning Microsoft 365 E3 licenses
 - Creating Security Groups and Microsoft 365 Groups
 - Adding members to groups
 
