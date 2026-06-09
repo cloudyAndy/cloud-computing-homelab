@@ -9,15 +9,21 @@ This homelab is built to practice real-world **IT Support / Helpdesk** tasks in 
 
 ### Screenshots
 ![M365 Admin Center](./Screenshots/01-m365-admin-center-home.png)  
-![Active Users](./Screenshots/03-active-users-after-creating-5.png)
+![Active Users Initial](./Screenshots/02-active-users-initial.png)  
+![Active Users](./Screenshots/03-active-users-after-creating-5.png)  
+![User License Assignment](./Screenshots/04-user-license-example.png)
 
 ---
 
-**Skills Practiced:**
-- Tenant Exploration & Documentation  
-- User Account Creation & License Assignment
-- Assigning Microsoft 365 E3 licenses  
-- User & Group Management
+### Completed Projects
+
+**✅ Tenant Exploration & Documentation**  
+**✅ User Account Creation & License Assignment**  
+**✅ Security Defaults (Already Enabled)**  
+**✅ User & Group Management**  
+**✅ Exchange Online Administration**  
+**✅ Microsoft Teams Setup & Configuration**  
+**✅ Basic Security & Compliance**
 
 ### User & Group Management
 
@@ -34,6 +40,7 @@ This homelab is built to practice real-world **IT Support / Helpdesk** tasks in 
 
 **Skills Practiced:**
 - Creating and managing users
+- Assigning Microsoft 365 E3 licenses
 - Creating Security Groups and Microsoft 365 Groups
 - Adding members to groups
 
@@ -42,22 +49,19 @@ This homelab is built to practice real-world **IT Support / Helpdesk** tasks in 
 ### Exchange Online Administration
 
 **Completed:**
-- Created Shared Mailbox (`IT Support` / `ITSupport@simpletech001.onmicrosoft.com`)
+- Created Shared Mailbox (`IT-Support`)
 - Configured Mailbox Delegation (Full Access + Send As)
-- Tested mailbox access via "Open another mailbox"
-- Experienced and troubleshot permission replication delay (common real-world issue)
+- Tested mailbox access and troubleshooting
 
 **Screenshots**
-![Exchange Admin Center](./Screenshots/08-shared-mailbox-created.png)  
+![Shared Mailbox Created](./Screenshots/08-shared-mailbox-created.png)  
 ![Shared Mailbox Delegation](./Screenshots/09-shared-mailbox-delegation.png)
 
 **Skills Practiced:**
 - Creating and managing Shared Mailboxes
 - Mailbox Delegation (Full Access & Send As)
-- Troubleshooting permission propagation delays
-  **Note:** Send As permission was granted but took longer than expected to replicate. Documented real-world troubleshooting process.
+- Troubleshooting permission delays
 
- 
 ---
 
 ### Microsoft Teams Administration & Support
@@ -66,29 +70,56 @@ This homelab is built to practice real-world **IT Support / Helpdesk** tasks in 
 - Created Marketing-Team (Private Team)
 - Added test users as members
 - Created Standard and Private channels
-- Tested messaging, file sharing, and basic meeting functionality
+- Tested messaging, meetings, and file sharing
 
 **Screenshots**
 ![Teams Admin Center](./Screenshots/10-teams-admin-center.png)  
 ![Marketing Team](./Screenshots/11-marketing-team.png)  
 ![Team Members](./Screenshots/12-team-members.png)  
-![Team Meeting](./Screenshots/13-team-meeting-scheduling.png)
-![Teams Filesharing/Posting](./Screenshots/14-team-posting-filesharing.png)
-
+![Team Meeting Scheduling](./Screenshots/13-team-meeting-scheduling.png)  
+![Team Posting & File Sharing](./Screenshots/14-team-posting-filesharing.png)
 
 **Skills Practiced:**
 - Creating and managing Teams
-- Adding users to Teams
-- Channel management (Standard vs Private channels)
+- Channel management (Standard vs Private)
 - Collaboration tool support
-- Common end-user Teams scenarios
-
-**Note:** Overcame "We can't create deployment team" error (common in trial tenants).
-### Next Projects To Complete
-
-- [ ] PowerShell Automation Scripts
-- [ ] Basic Security & Compliance
+- Common Teams end-user issues
 
 ---
 
-**Last Updated**: June 08, 2026
+### Basic Security & Compliance
+
+**Completed:**
+- Reviewed Security Defaults (Enabled)
+- Configured Multi-Factor Authentication (MFA) for test users
+- Explored Microsoft Purview Compliance Portal
+- Attempted Audit Log search
+
+**Screenshots**
+![Security Defaults](./Screenshots/15-security-defaults.png)  
+![MFA Registration](./Screenshots/16-mfa-enrollment.png)  
+![Purview Compliance Portal](./Screenshots/17-purview-portal.png)  
+![Audit Log Search](./Screenshots/18-audit-logs-error.png)
+
+**Skills Practiced:**
+- Managing Security Defaults
+- Enforcing MFA
+- Basic compliance and audit logging
+- Security-related helpdesk support
+
+**Note:** Encountered "Failed to load data" error in Audit Logs — common in new trial tenants.
+
+---
+
+### Next Projects To Complete
+- [ ] PowerShell Automation Scripts
+- [ ] Advanced Security & Compliance (DLP, Sensitivity Labels, etc.)
+- [ ] Intune / Device Management Basics
+
+---
+
+**Last Updated**: June 09, 2026
+
+---
+
+**Goal**: Build practical Microsoft 365 skills for **IT Support / Helpdesk** roles.
