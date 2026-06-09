@@ -115,6 +115,8 @@ This homelab is built to practice real-world **IT Support / Helpdesk** tasks in 
 - [ ] PowerShell Automation Scripts
 - [ ] Advanced Security & Compliance (DLP, Sensitivity Labels, etc.)
 - [ ] Intune / Device Management Basics
+- [ ] SharePoint
+      
 
 ---
 
