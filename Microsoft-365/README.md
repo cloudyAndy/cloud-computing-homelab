@@ -23,7 +23,8 @@ This homelab is built to practice real-world **IT Support / Helpdesk** tasks in 
 **✅ User & Group Management**  
 **✅ Exchange Online Administration**  
 **✅ Microsoft Teams Setup & Configuration**  
-**✅ Basic Security & Compliance**
+**✅ Basic Security & Compliance**  
+**✅ SharePoint & OneDrive Support**
 
 ### User & Group Management
 
@@ -49,18 +50,12 @@ This homelab is built to practice real-world **IT Support / Helpdesk** tasks in 
 ### Exchange Online Administration
 
 **Completed:**
-- Created Shared Mailbox (`IT-Support`)
+- Created Shared Mailbox (`ITSupport`)
 - Configured Mailbox Delegation (Full Access + Send As)
-- Tested mailbox access and troubleshooting
 
 **Screenshots**
 ![Shared Mailbox Created](./Screenshots/08-shared-mailbox-created.png)  
 ![Shared Mailbox Delegation](./Screenshots/09-shared-mailbox-delegation.png)
-
-**Skills Practiced:**
-- Creating and managing Shared Mailboxes
-- Mailbox Delegation (Full Access & Send As)
-- Troubleshooting permission delays
 
 ---
 
@@ -69,21 +64,14 @@ This homelab is built to practice real-world **IT Support / Helpdesk** tasks in 
 **Completed:**
 - Created Marketing-Team (Private Team)
 - Added test users as members
-- Created Standard and Private channels
-- Tested messaging, meetings, and file sharing
+- Created channels and tested collaboration
 
 **Screenshots**
 ![Teams Admin Center](./Screenshots/10-teams-admin-center.png)  
 ![Marketing Team](./Screenshots/11-marketing-team.png)  
 ![Team Members](./Screenshots/12-team-members.png)  
-![Team Meeting Scheduling](./Screenshots/13-team-meeting-scheduling.png)  
-![Team Posting & File Sharing](./Screenshots/14-team-posting-filesharing.png)
-
-**Skills Practiced:**
-- Creating and managing Teams
-- Channel management (Standard vs Private)
-- Collaboration tool support
-- Common Teams end-user issues
+![Team Meeting](./Screenshots/13-team-meeting-scheduling.png)  
+![Team File Sharing](./Screenshots/14-team-posting-filesharing.png)
 
 ---
 
@@ -91,37 +79,48 @@ This homelab is built to practice real-world **IT Support / Helpdesk** tasks in 
 
 **Completed:**
 - Reviewed Security Defaults (Enabled)
-- Configured Multi-Factor Authentication (MFA) for test users
-- Explored Microsoft Purview Compliance Portal
-- Attempted Audit Log search
+- Configured Multi-Factor Authentication (MFA)
+- Explored Microsoft Purview & Audit Logs
 
 **Screenshots**
 ![Security Defaults](./Screenshots/15-security-defaults.png)  
 ![MFA Registration](./Screenshots/16-mfa-enrollment.png)  
-![Purview Compliance Portal](./Screenshots/17-purview-portal.png)  
-![Audit Log Search](./Screenshots/18-audit-logs-error.png)
+![Purview Portal](./Screenshots/17-purview-portal.png)  
+![Audit Logs](./Screenshots/18-audit-logs-error.png)
+
+---
+
+### SharePoint & OneDrive Support
+
+**Completed:**
+- Created Marketing Team SharePoint Site
+- Configured document library and permissions
+- Tested internal sharing
+- Synced library with OneDrive client
+- Practiced common file access and sync scenarios
+
+**Screenshots**
+![SharePoint Site](./Screenshots/19-sharepoint-site-home.png)  
+![Document Library](./Screenshots/20-document-library.png)  
+![OneDrive Sync Client](./Screenshots/21-onedrive-sync-client.png)  
+![Sharing Permissions](./Screenshots/22-sharing-permission.png)
 
 **Skills Practiced:**
-- Managing Security Defaults
-- Enforcing MFA
-- Basic compliance and audit logging
-- Security-related helpdesk support
-
-**Note:** Encountered "Failed to load data" error in Audit Logs — common in new trial tenants.
+- SharePoint Team Site management
+- Document library permissions
+- OneDrive sync troubleshooting
+- File sharing and external access
+- Common end-user support (access denied, sync issues, recovery)
 
 ---
 
 ### Next Projects To Complete
 - [ ] PowerShell Automation Scripts
-- [ ] Advanced Security & Compliance (DLP, Sensitivity Labels, etc.)
-- [ ] Intune / Device Management Basics
-- [ ] SharePoint
+- [ ] Advanced Security & Compliance
       
 
 ---
 
-**Last Updated**: June 09, 2026
+**Last Updated**: June 10, 2026
 
----
-
-**Goal**: Build practical Microsoft 365 skills for **IT Support / Helpdesk** roles.
+**Goal**: Practical Microsoft 365 skills for **IT Support / Helpdesk** roles.
