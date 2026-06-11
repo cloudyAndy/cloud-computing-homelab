@@ -21,7 +21,7 @@ To gain real-world experience with major cloud platforms, identity management, c
 #### Microsoft 365 Helpdesk Lab (`/m365-helpdesk-lab`)
 **Focus**: Practical IT Support scenarios.
 
-→ **[View M365 Lab](./m365-helpdesk-lab/README.md)**
+→ **[View M365 Lab](Microsoft-365)**
 
 ---
 
