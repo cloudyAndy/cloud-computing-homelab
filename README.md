@@ -10,7 +10,7 @@ To gain real-world experience with major cloud platforms, identity management, c
 | Platform              | Type                  | Status        | Key Skills Demonstrated |
 |-----------------------|-----------------------|---------------|--------------------------|
 | **Microsoft 365**     | E3 Trial              | **Completed** | User Mgmt, Exchange, Teams, SharePoint, Security |
-| **Azure**             | Free Tier             | **In Progress** | VMs, Networking, Storage, RBAC, Resource Groups |
+| **Azure**             | Free Tier             | **In Progress** | Resource Groups, VMs, Networking, Storage, RBAC |
 | AWS                   | Free Tier             | Pending       | EC2, IAM, S3, VPC |
 | Others                | ...                   | ...           | ... |
 
@@ -19,21 +19,21 @@ To gain real-world experience with major cloud platforms, identity management, c
 ### ✅ Completed Labs
 
 #### Microsoft 365 Helpdesk Lab (`/m365-helpdesk-lab`)
-**Focus**: Practical IT Support scenarios.
+**Focus**: Practical IT Support & Helpdesk scenarios.
 
 → **[View M365 Lab](Microsoft-365)**
 
 ---
 
-### 🔄 Azure Lab (`/azure-lab`)
+### 🔄 Azure Lab (`/azure-lab`) ← **Current Project**
 
-**Current Focus** — Hands-on Azure Fundamentals for IT Support / Cloud roles.
+**Focus**: Azure Fundamentals for Cloud & IT Support roles.
 
 **Progress:**
 - Resource Groups & Subscriptions
-- Virtual Machines (creation, RDP, management)
-- Virtual Networking (VNet, Subnets, NSG)
-- Storage Accounts & Blob Storage
+- Virtual Machines (creation, connectivity, management)
+- Azure Networking (VNet, Subnets, NSG)
+- Storage Accounts
 - Role-Based Access Control (RBAC)
 - Azure Monitor & Basic Troubleshooting
 
@@ -41,4 +41,4 @@ To gain real-world experience with major cloud platforms, identity management, c
 
 ---
 
-**Last Updated**: June 11, 2026
+**Last Updated**: June 12, 2026
