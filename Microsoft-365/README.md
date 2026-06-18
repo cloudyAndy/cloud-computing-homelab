@@ -24,7 +24,8 @@ This homelab is built to practice real-world **IT Support / Helpdesk** tasks in 
 **✅ Exchange Online Administration**  
 **✅ Microsoft Teams Setup & Configuration**  
 **✅ Basic Security & Compliance**  
-**✅ SharePoint & OneDrive Support**
+**✅ SharePoint & OneDrive Support**  
+**✅ PowerShell Automation Scripts**
 
 ### User & Group Management
 
@@ -114,13 +115,32 @@ This homelab is built to practice real-world **IT Support / Helpdesk** tasks in 
 
 ---
 
-### Next Projects To Complete
-- [ ] PowerShell Automation Scripts
-- [ ] Advanced Security & Compliance
-      
+### PowerShell Automation Scripts
+
+**Completed:**
+- Connected to Exchange Online
+- Password reset automation
+- User creation script
+- Shared mailbox creation & permission management
+
+**Screenshots**
+![PowerShell Connection](./Screenshots/23-powershell-connect.png)  
+![Password Reset](./Screenshots/24-password-reset.png)  
+![User Creation](./Screenshots/25-user-creation.png)  
+![Shared Mailbox Creation](./Screenshots/26-shared-mailbox-creation.png)
+![Shared Mailbox Creation](./Screenshots/27-shared-mailbox-permissions.png)
+
+
+**Skills Practiced:**
+- PowerShell scripting for Microsoft 365
+- Automating repetitive helpdesk tasks (password resets, user onboarding)
+- Connecting to Exchange Online
+- Managing mailboxes and permissions via scripts
+
+
 
 ---
 
-**Last Updated**: June 10, 2026
+**Last Updated**: June 18, 2026
 
 **Goal**: Practical Microsoft 365 skills for **IT Support / Helpdesk** roles.
